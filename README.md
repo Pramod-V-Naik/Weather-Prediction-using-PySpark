@@ -3,3 +3,4 @@
  This project delves into the integration of Big Data and machine learning techniques for weather data analysis and prediction. We discuss the role of tools like Apache Hadoop and Spark in managing and processing weather datasets, followed by the application of predictive models to improve forecast accuracy. By leveraging Big Data, this approach can enhance early warning systems, enabling better preparation for adverse weather conditions and reducing their socioeconomic impact."
 
 
+![Screenshot 2025-06-26 092240](https://github.com/user-attachments/assets/d7c037ac-2b68-4adc-971a-a26ce6be71ce)
